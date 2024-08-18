@@ -1,0 +1,365 @@
+======== Epoch 1 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.000244
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 0.099479 Time Required: 0.0m 25.24s
+Training Generator...
+Status: Batches [51/250] Loss: 0.0
+Status: Batches [101/250] Loss: 0.0
+Status: Batches [151/250] Loss: 0.0
+Status: Batches [201/250] Loss: 0.0
+Status: Batches [251/250] Loss: 0.0
+Total Generator Loss: 0.109875 Time Required: 1.0m 58.48s
+Total Time Elapsed: 2.0m 23.72s
+
+======== Epoch 2 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 5.9e-05
+Total Discriminator Loss: 0.037227 Time Required: 0.0m 24.57s
+Training Generator...
+Status: Batches [51/250] Loss: 56.288097
+Status: Batches [101/250] Loss: 56.319584
+Status: Batches [151/250] Loss: 56.29937
+Status: Batches [201/250] Loss: 56.322742
+Status: Batches [251/250] Loss: 56.292225
+Total Generator Loss: 56.305473 Time Required: 2.0m 2.97s
+Total Time Elapsed: 4.0m 51.25s
+
+======== Epoch 3 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 6e-06
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 2e-06 Time Required: 0.0m 24.38s
+Training Generator...
+Status: Batches [51/250] Loss: 56.339905
+Status: Batches [101/250] Loss: 56.196083
+Status: Batches [151/250] Loss: 56.354572
+Status: Batches [201/250] Loss: 56.267288
+Status: Batches [251/250] Loss: 56.232113
+Total Generator Loss: 56.286005 Time Required: 2.0m 3.11s
+Total Time Elapsed: 7.0m 18.75s
+
+======== Epoch 4 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 4e-06
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 2e-06 Time Required: 0.0m 24.42s
+Training Generator...
+Status: Batches [51/250] Loss: 56.199715
+Status: Batches [101/250] Loss: 56.324348
+Status: Batches [151/250] Loss: 56.294395
+Status: Batches [201/250] Loss: 56.261253
+Status: Batches [251/250] Loss: 56.343864
+Total Generator Loss: 56.288036 Time Required: 2.0m 3.37s
+Total Time Elapsed: 9.0m 46.54s
+
+======== Epoch 5 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 4e-06 Time Required: 0.0m 24.47s
+Training Generator...
+Status: Batches [51/250] Loss: 56.2192
+Status: Batches [101/250] Loss: 56.255341
+Status: Batches [151/250] Loss: 56.287476
+Status: Batches [201/250] Loss: 56.315414
+Status: Batches [251/250] Loss: 56.178734
+Total Generator Loss: 56.270585 Time Required: 2.0m 3.48s
+Total Time Elapsed: 12.0m 14.5s
+Model saved to ./Saved Weights/3DGANs
+
+======== Epoch 6 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 1.2e-05
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 3e-06 Time Required: 0.0m 24.52s
+Training Generator...
+Status: Batches [51/250] Loss: 56.283897
+Status: Batches [101/250] Loss: 56.285908
+Status: Batches [151/250] Loss: 56.280663
+Status: Batches [201/250] Loss: 56.157005
+Status: Batches [251/250] Loss: 56.251232
+Total Generator Loss: 56.256373 Time Required: 2.0m 3.69s
+Total Time Elapsed: 14.0m 43.13s
+
+======== Epoch 7 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 1e-06
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 4e-06 Time Required: 0.0m 24.53s
+Training Generator...
+Status: Batches [51/250] Loss: 56.274319
+Status: Batches [101/250] Loss: 56.24012
+Status: Batches [151/250] Loss: 56.23764
+Status: Batches [201/250] Loss: 56.171417
+Status: Batches [251/250] Loss: 56.168674
+Total Generator Loss: 56.232054 Time Required: 2.0m 3.59s
+Total Time Elapsed: 17.0m 11.25s
+
+======== Epoch 8 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.000183
+Status: Batches [121/124] Loss: 1e-06
+Total Discriminator Loss: 3e-06 Time Required: 0.0m 24.47s
+Training Generator...
+Status: Batches [51/250] Loss: 56.213593
+Status: Batches [101/250] Loss: 56.315754
+Status: Batches [151/250] Loss: 56.196945
+Status: Batches [201/250] Loss: 56.259094
+Status: Batches [251/250] Loss: 56.239731
+Total Generator Loss: 56.206531 Time Required: 2.0m 3.51s
+Total Time Elapsed: 19.0m 39.23s
+
+======== Epoch 9 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.44s
+Training Generator...
+Status: Batches [51/250] Loss: 56.138416
+Status: Batches [101/250] Loss: 56.245796
+Status: Batches [151/250] Loss: 56.273064
+Status: Batches [201/250] Loss: 56.171913
+Status: Batches [251/250] Loss: 56.111977
+Total Generator Loss: 56.199218 Time Required: 2.0m 3.53s
+Total Time Elapsed: 22.0m 7.2s
+
+======== Epoch 10 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 2e-06
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.38s
+Training Generator...
+Status: Batches [51/250] Loss: 56.186291
+Status: Batches [101/250] Loss: 56.271294
+Status: Batches [151/250] Loss: 56.222927
+Status: Batches [201/250] Loss: 56.159145
+Status: Batches [251/250] Loss: 56.188328
+Total Generator Loss: 56.193117 Time Required: 2.0m 3.16s
+Total Time Elapsed: 24.0m 34.73s
+Model saved to ./Saved Weights/3DGANs
+
+======== Epoch 11 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.46s
+Training Generator...
+Status: Batches [51/250] Loss: 56.142391
+Status: Batches [101/250] Loss: 56.200428
+Status: Batches [151/250] Loss: 56.178684
+Status: Batches [201/250] Loss: 56.159492
+Status: Batches [251/250] Loss: 56.156738
+Total Generator Loss: 56.188011 Time Required: 2.0m 3.13s
+Total Time Elapsed: 27.0m 2.71s
+
+======== Epoch 12 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 3e-06
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.32s
+Training Generator...
+Status: Batches [51/250] Loss: 56.189957
+Status: Batches [101/250] Loss: 56.15678
+Status: Batches [151/250] Loss: 56.135166
+Status: Batches [201/250] Loss: 56.218002
+Status: Batches [251/250] Loss: 56.24057
+Total Generator Loss: 56.170649 Time Required: 2.0m 3.8s
+Total Time Elapsed: 29.0m 30.84s
+
+======== Epoch 13 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.52s
+Training Generator...
+Status: Batches [51/250] Loss: 56.131008
+Status: Batches [101/250] Loss: 56.165073
+Status: Batches [151/250] Loss: 56.105133
+Status: Batches [201/250] Loss: 56.068985
+Status: Batches [251/250] Loss: 56.153748
+Total Generator Loss: 56.167616 Time Required: 2.0m 3.33s
+Total Time Elapsed: 31.0m 58.69s
+
+======== Epoch 14 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 4e-06
+Total Discriminator Loss: 2e-06 Time Required: 0.0m 24.39s
+Training Generator...
+Status: Batches [51/250] Loss: 56.108871
+Status: Batches [101/250] Loss: 56.125454
+Status: Batches [151/250] Loss: 56.166183
+Status: Batches [201/250] Loss: 56.210007
+Status: Batches [251/250] Loss: 56.185856
+Total Generator Loss: 56.143643 Time Required: 2.0m 3.19s
+Total Time Elapsed: 34.0m 26.28s
+
+======== Epoch 15 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.36s
+Training Generator...
+Status: Batches [51/250] Loss: 56.090691
+Status: Batches [101/250] Loss: 56.182072
+Status: Batches [151/250] Loss: 56.108906
+Status: Batches [201/250] Loss: 56.125423
+Status: Batches [251/250] Loss: 56.129181
+Total Generator Loss: 56.13163 Time Required: 2.0m 3.02s
+Total Time Elapsed: 36.0m 53.66s
+Model saved to ./Saved Weights/3DGANs
+
+======== Epoch 16 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.34s
+Training Generator...
+Status: Batches [51/250] Loss: 56.092072
+Status: Batches [101/250] Loss: 56.231323
+Status: Batches [151/250] Loss: 56.145958
+Status: Batches [201/250] Loss: 56.084473
+Status: Batches [251/250] Loss: 56.128117
+Total Generator Loss: 56.129256 Time Required: 2.0m 2.98s
+Total Time Elapsed: 39.0m 21.36s
+
+======== Epoch 17 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.29s
+Training Generator...
+Status: Batches [51/250] Loss: 56.140038
+Status: Batches [101/250] Loss: 56.11478
+Status: Batches [151/250] Loss: 56.150589
+Status: Batches [201/250] Loss: 56.120255
+Status: Batches [251/250] Loss: 56.129387
+Total Generator Loss: 56.120336 Time Required: 2.0m 3.15s
+Total Time Elapsed: 41.0m 48.8s
+
+======== Epoch 18 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 2e-05
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.43s
+Training Generator...
+Status: Batches [51/250] Loss: 56.184772
+Status: Batches [101/250] Loss: 56.132088
+Status: Batches [151/250] Loss: 56.120865
+Status: Batches [201/250] Loss: 56.079662
+Status: Batches [251/250] Loss: 56.130104
+Total Generator Loss: 56.113411 Time Required: 2.0m 3.45s
+Total Time Elapsed: 44.0m 16.68s
+
+======== Epoch 19 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 0.0
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.69s
+Training Generator...
+Status: Batches [51/250] Loss: 56.102615
+Status: Batches [101/250] Loss: 56.07729
+Status: Batches [151/250] Loss: 56.02742
+Status: Batches [201/250] Loss: 56.107944
+Status: Batches [251/250] Loss: 56.136063
+Total Generator Loss: 56.104507 Time Required: 2.0m 3.67s
+Total Time Elapsed: 46.0m 45.04s
+
+======== Epoch 20 ========
+Training Discriminator...
+Status: Batches [21/124] Loss: 0.0
+Status: Batches [41/124] Loss: 0.0
+Status: Batches [61/124] Loss: 0.0
+Status: Batches [81/124] Loss: 3e-06
+Status: Batches [101/124] Loss: 0.0
+Status: Batches [121/124] Loss: 0.0
+Total Discriminator Loss: 1e-06 Time Required: 0.0m 24.44s
+Training Generator...
+Status: Batches [51/250] Loss: 56.076225
+Status: Batches [101/250] Loss: 56.124516
+Status: Batches [151/250] Loss: 56.109138
+Status: Batches [201/250] Loss: 56.095631
+Status: Batches [251/250] Loss: 56.064083
+Total Generator Loss: 56.092696 Time Required: 2.0m 3.33s
+Total Time Elapsed: 49.0m 12.81s
+Model saved to ./Saved Weights/3DGANs
+
+Training Completed Successfully!

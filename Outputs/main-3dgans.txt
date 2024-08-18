@@ -1,0 +1,91 @@
+======== Epoch 1 ========
+Training Discriminator...
+Status: [32/6912] Loss: 0.623657
+Status: [1632/6912] Loss: 0.050882
+Status: [3232/6912] Loss: 0.080925
+Status: [4832/6912] Loss: 0.00177
+Status: [6432/6912] Loss: 0.000302
+Total Discriminator Loss: 0.112607 Time Required: 15.0m 20.49s
+Training Generator...
+Status: [32/8000] Loss: 35.095463
+Status: [1632/8000] Loss: 0.000194
+Status: [3232/8000] Loss: 0.000109
+Status: [4832/8000] Loss: 8.2e-05
+Status: [6432/8000] Loss: 4.4e-05
+Total Generator Loss: 0.243684 Time Required: 2.0m 3.84s
+Models saved in ./Saved Weights/3DGANs for Epoch 1
+Total Time Elapsed: 17.0m 24.72s
+
+======== Epoch 2 ========
+Training Discriminator...
+Status: [32/6912] Loss: 0.000148
+Status: [1632/6912] Loss: 0.127454
+Status: [3232/6912] Loss: 5e-06
+Status: [4832/6912] Loss: 6.2e-05
+Status: [6432/6912] Loss: 0.021135
+Total Discriminator Loss: 0.036687 Time Required: 14.0m 49.97s
+Training Generator...
+Status: [32/8000] Loss: 2.69842
+Status: [1632/8000] Loss: 0.000696
+Status: [3232/8000] Loss: 0.000413
+Status: [4832/8000] Loss: 0.00031
+Status: [6432/8000] Loss: 0.00024
+Total Generator Loss: 0.012621 Time Required: 2.0m 4.05s
+Models saved in ./Saved Weights/3DGANs for Epoch 2
+Total Time Elapsed: 34.0m 19.15s
+
+======== Epoch 3 ========
+Training Discriminator...
+Status: [32/6912] Loss: 3.6e-05
+Status: [1632/6912] Loss: 0.00114
+Status: [3232/6912] Loss: 0.001104
+Status: [4832/6912] Loss: 0.085807
+Status: [6432/6912] Loss: 0.00182
+Total Discriminator Loss: 0.03457 Time Required: 14.0m 52.88s
+Training Generator...
+Status: [32/8000] Loss: 2.676994
+Status: [1632/8000] Loss: 0.000232
+Status: [3232/8000] Loss: 0.00012
+Status: [4832/8000] Loss: 8.4e-05
+Status: [6432/8000] Loss: 6.4e-05
+Total Generator Loss: 0.012186 Time Required: 2.0m 4.18s
+Models saved in ./Saved Weights/3DGANs for Epoch 3
+Total Time Elapsed: 51.0m 16.6s
+
+======== Epoch 4 ========
+Training Discriminator...
+Status: [32/6912] Loss: 0.000243
+Status: [1632/6912] Loss: 0.005751
+Status: [3232/6912] Loss: 0.260166
+Status: [4832/6912] Loss: 0.138119
+Status: [6432/6912] Loss: 1e-06
+Total Discriminator Loss: 0.024965 Time Required: 14.0m 57.64s
+Training Generator...
+Status: [32/8000] Loss: 1e-06
+Status: [1632/8000] Loss: 1e-06
+Status: [3232/8000] Loss: 1e-06
+Status: [4832/8000] Loss: 1e-06
+Status: [6432/8000] Loss: 1e-06
+Total Generator Loss: 1e-06 Time Required: 2.0m 4.13s
+Models saved in ./Saved Weights/3DGANs for Epoch 4
+Total Time Elapsed: 68.0m 18.78s
+
+======== Epoch 5 ========
+Training Discriminator...
+Status: [32/6912] Loss: 0.000246
+Status: [1632/6912] Loss: 3.6e-05
+Status: [3232/6912] Loss: 3.2e-05
+Status: [4832/6912] Loss: 0.0
+Status: [6432/6912] Loss: 2e-05
+Total Discriminator Loss: 0.02882 Time Required: 14.0m 44.47s
+Training Generator...
+Status: [32/8000] Loss: 0.0
+Status: [1632/8000] Loss: 0.0
+Status: [3232/8000] Loss: 0.0
+Status: [4832/8000] Loss: 0.0
+Status: [6432/8000] Loss: 0.0
+Total Generator Loss: 0.0 Time Required: 1.0m 58.36s
+Models saved in ./Saved Weights/3DGANs for Epoch 5
+Total Time Elapsed: 85.0m 1.99s
+
+Training Completed Successfully!

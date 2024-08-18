@@ -1,0 +1,5 @@
+*.off
+utils/__pycache__/*
+.idea
+*.pth
+*.pyc
